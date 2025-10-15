@@ -1,4 +1,4 @@
-<img width="1055" height="686" alt="screenshot2" src="https://github.com/user-attachments/assets/6e9d935a-ce41-414f-a03c-327f24ee088f" /># Guide_The_Marble
+# Guide_The_Marble
 A game where you have to guide a falling marble through crevices and bumpers and if you hit a bumper it changes your direction, If you hit a wall you get a game over and there is some wiggle room on the walls.
 
 Controls: a or left to go left and d or right to go right.
