@@ -26,3 +26,5 @@ To use mods, you drag the mod folder in the game folder and the mod folder must 
 <img width="1055" height="686" alt="screenshot2" src="https://github.com/user-attachments/assets/3a9c8269-92e1-4754-bf8e-0b2aecc29022" />
 
 <img width="1055" height="686" alt="screenshot3" src="https://github.com/user-attachments/assets/71179850-4c8e-43c8-b6a2-6a02c30ed0b7" />
+
+Contributors Needed
