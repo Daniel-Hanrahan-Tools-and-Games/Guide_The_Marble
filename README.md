@@ -11,7 +11,7 @@ To put new files in this repository you need github desktop, Here is a link to u
 
 Before you get the engine or compiling the project, you are going to need the .net sdk and runtimes and you may want to install an older version because sometimes the latest version does not work and here is a link to the directions on how you install it on linux: https://learn.microsoft.com/en-us/dotnet/core/install/linux?WT.mc_id=dotnet-35129-website, to install an older version you change the version number to a lower number in the terminal.
 
-To use mods, you drag the mod folder in the game folder and the mod folder must be called Guide_THe_Marble_Mod and one of the .tscn files must be called ModRoom1.tscn and lua scripts must be called ModPlayer.lua, ModWallCollision.lua, NextArea.lua and ModBumper.lua
+To use mods, you drag the mod folder in the game folder and the mod folder must be called Guide_The_Marble_Mod and one of the .tscn files must be called ModRoom1.tscn and lua scripts must be called ModPlayer.lua, ModWallCollision.lua, NextArea.lua and ModBumper.lua
 
 <a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/Guide_The_Marble_Mod">Example Mod Repository Page</a>
 
