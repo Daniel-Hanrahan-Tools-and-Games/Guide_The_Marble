@@ -27,6 +27,10 @@ To use mods, you drag the mod folder in the game folder and the mod folder must 
 
 <a href="https://daniel-hanrahan-tools-and-games.github.io/Guide_The_Marble_Compatibility/">Compatibility Version ReadMe Page</a>
 
+<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/Guide_The_Marble_PNP">P&P Version Repository Page</a>
+
+<a href="https://daniel-hanrahan-tools-and-games.github.io/Guide_The_Marble_PNP/">P&P Version ReadMe Page</a>
+
 <a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/Guide_The_Marble_VPLS">Visual Programming Language System Version Repository Page</a>
 
 <a href="https://daniel-hanrahan-tools-and-games.github.io/Guide_The_Marble_VPLS/">Visual Programming Language System Version ReadMe Page</a>
