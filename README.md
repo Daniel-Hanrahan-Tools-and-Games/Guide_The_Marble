@@ -35,6 +35,8 @@ To use mods, you drag the mod folder in the game folder and the mod folder must 
 
 <a href="https://daniel-hanrahan-tools-and-games.github.io/Guide_The_Marble_VPLS/">Visual Programming Language System Version ReadMe Page</a>
 
+<a href="https://daniel-hanrahan-tools-and-games.github.io/MGSInfo.html">Information On Multi-Game-Systems</a>
+
 <a href="https://godotengine.org/download/archive/4.3-stable/">This game is made in Godot 4.3 .NET version</a>
 
 <a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/Guide_The_Marble">Repository Page</a>
